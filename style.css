@@ -1,0 +1,33 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv
+{
+    width: 100%;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.travek_mainDiv h5 .travel_mainDiv p{
+    margin: 20px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 22px;
+    margin-bottom: 10px;
+}
+.movie_head i
+{
+    float: right;
+}
+.movie_head span
+{
+color: #ff2200;
+}
+#contact iframe
+{
+    width: 100%;
+}
